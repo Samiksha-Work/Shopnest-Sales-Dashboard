@@ -20,8 +20,8 @@ An interactive Power BI dashboard analyzing sales performance, delivery efficien
 - Surfaced top and underperforming product categories by revenue
 
 ## Files
-- `ShopNest_Sales_Dashboard.pbix` — the full Power BI file (open in Power BI Desktop to explore the data model, DAX measures, and all 11 report pages interactively)
-- `Project_Overview.pdf` — written project brief covering scope and requirements
+- ShopNest_Sales_Dashboard.pbix — the full Power BI file (hosted on Google Drive due to GitHub's file size limit; open in Power BI Desktop to explore the data model, DAX measures, and all 11 report pages interactively)
+- Project_Overview.pdf — written project brief covering scope and requirements
 
 ## Note on Data
 This project uses a real e-commerce transactional dataset (order, product, customer, payment, and review data) provided as part of a SkilloVilla data analytics capstone assignment.
